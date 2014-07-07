@@ -173,74 +173,74 @@ en este planeta limitado?  Esta pregunta no puede ser respondida sin
 considerar la forma social de producción.
 
 El capitalismo es el modo de producción dominante en la actualidad.
-Para este modo, la respuesta es no.  El capitalismo es bueno produciendo
+Para este modo, la respuesta debe ser no.  El capitalismo es bueno produciendo
 abundancia para algunos, pero lo hace a expensas de otros.  La mayoría
 de las personas en el Sur Global quedan excluídas así como muchas
-personas pobres en los países "ricos".  Este no es sólo un hecho
+personas pobres en los países "ricos" son también en gran medida excluidas.  Este no es sólo un hecho
 empírico, también existen razones teoréticas de por qué debe ser así.
 
-En primer lugar, el objetivo de cualquier entidad capitalista, cualquier
-inversor y cualquier compañía, es "hacer dinero", esto es, convertir
+En primer lugar, el objetivo de toda entidad capitalista, de todo
+inversor y toda compañía, es "hacer dinero", esto es, convertir
 dinero en más dinero.  Hacer dinero es sólo posible si alguien produce
 algo (aunque esta relación puede ser indirecta y muy lejana) y la
 producción siempre necesita recursos.  Si el objetivo de "hacer dinero"
-es alcanzado, como resultado hay más dinero para ser reinvertido para
+es alcanzado, como resultado hay más dinero que debe ser reinvertido de nuevo para
 hacer aun más --y así.  El proceso capitalista tiene incorporada una
 urgencia de crecimiento infinita, para producir más y usar más recursos.
-La superexplotación de la biocapacidad es el resultado lógico.  Bajo
+La sobreexplotación de la biocapacidad es el resultado lógico.  Bajo
 el capitalismo, la única alternativa al crecimiento es la crisis: las
-inversiones fallan, llevando a la pérdida de capital y la bancarrota
+inversiones fallan, llevando a la pérdida de capital con la bancarrota
 de las compañías.  Las personas pierden su trabajo y por lo tanto su
 capacidad de beneficiarse de la abundancia limitada que produce el
 capitalismo para aquellos que pueden pagarla.  Ninguna alternativa es
-buena: las crisis causan sufrimiento pero el crecimiento permanente
+buena: las crisis causan sufrimiento a las personas pero el crecimiento permanente
 viene a expensas de la naturaleza.
 
 Asimismo, la abundancia para todos es imposible porque las compañías
 producen bienes para venderlos --así es como hacen dinero.  Pero las
 cosas sólo pueden ser vendidas si son escasas, si no existen en cantidad
-suficiente.  De otro modo, si el suministro e más alto que la demanda,
-los precios tienden a caer a cero.  Esto le quita al mercado en cuestión
-atracción para los productores ya que se vuelve difícil o imposible
-"hacer dinero".  Algunos productores se irán o irán a la bancarrota,
-llevando finalmente a una situación donde el suministro cae bajo el
+suficiente.  De otro modo, si la oferta es mayor a la demanda,
+los precios tienden a caer a cero.  Esto vuelve al mercado en cuestión
+poco atractivo para los productores ya que se comienza a ser difícil o imposible
+"hacer dinero".  Algunos productores se retirarán o irán a la bancarrota,
+llevando finalmente a una situación donde la oferta cae bajo el
 nivel de la demanda y la situación de escasez requerida para el éxito
 de las inversiones se restablece.  Si las corporaciones capitalistas
 no son la única fuente de bienes, sino que la gente puede obtenerlas
 gratuitamente de la naturaleza o de otra gente, la explotación comercial
-va a encontrarse en problemas.  Esta es la situación en que se encontró
-la industria musical.  En tal situación, las compañías afectadas van a
+va a encontrarse en problemas.  Esta es la situación en la que se encontró
+la industria musical, desde que la Internet facilitó el compartir música de manera no comercial.  En tal situación, las compañías afectadas van a
 tratar desesperadamente de aplastar la alternativa no capitalista, tal
 como vemos en la actualidad.
 
 Finalmente, existe un conflicto entre la abundancia para todos y el
 principio fundamental de los mercados capitalistas: la competencia.  La
 competencia significa que siempre que alguien gana, otro pierde.  No
-importa si las compañías compiten por una parte del mercado o la gente
+importa si las compañías compiten por una parte del mercado o las personas
 por trabajos: algunos van a triunfar pero el resto no, yéndose a la
 bancarrota o volviéndose desocupados.  Puede que haya abundancia para
 los ganadores, pero los perdedores no tendrán más que unas modestas
-migajas del Estado, si alguna.
+dádivas del Estado, en el mejor de los casos.
 
 
 La producción de pares basada en los comunes: ¿Un modo de producción diferente al rescate?
 ------------------------------------------------------------------------------------------
 
 Entonces, la abundancia para todos es sólo una posibilidad bajo otro
-modo de producción.  ¿Pero cómo podría funcionar tal modo de producción?
-En efecto, ¿dónde quedaría el concepto de "trabajo"?  En el capitalismo,
+modo de producción.  ¿Pero cómo podría funcionar ese modo de producción?
+En efecto, ¿qué pasaría con el concepto de "trabajo"?  En el capitalismo,
 el trabajo es usualmente un medio para un fin: las compañías contratan
 trabajadores para producir mercancías; la gente trabaja para ganar el
-dinero que necesitan para "vivir", es decir, para sobrevivir.  Cuando
+dinero que necesitan para "ganarse la vida", es decir, para sobrevivir.  Cuando
 los políticos hablan sobre "incrementar los incentivos para el trabajo",
-se refieren a la extensión de sanciones para la gente que no quiere o
+se refieren al aumento de sanciones para la gente que no quiere o
 no puede encontrar trabajo.  El trabajo pareciera ser algo que sólo
-haces si tienes que hacerlo, si te es forzado por necesidad económica o
+haces si tienes que hacerlo, si te ves obligado por necesidad económica o
 presión social.
 
 ¿Pero tiene que ser de esta forma?  Volvamos a la manera en que la
 abundancia es producida en Internet.  No toda la abundancia digital
-que podemos encontrar allí, pero una gran parte es el resultado de un
+que podemos encontrar allí, pero una gran parte de ella es el resultado de un
 proceso que llamamos _producción de pares basada en los comunes_.
 
 En muchos casos, la producción de pares difiere considerablemente
@@ -250,7 +250,7 @@ enciclopedia libre Wikipedia sin esperar compensación monetaria.
 Otros hacen música, toman fotografías o publican textos, compartiendo
 libremente sus obras en línea.  La gente crea y comparte software
 libre como el sistema operativo GNU/Linux y el navegador web Firefox.
-Otros crean redes inalámbricas comunitarias y otros hardware y diseño
+Otros crean redes inalámbricas comunitarias y otros hardware y diseños
 abiertos, compartiendo libremente los diseños y planos de muebles, ropa,
 máquinas y otros elementos.
 
@@ -285,7 +285,7 @@ Resulta importante señalar que la comunidad hace sus propias reglas
 usualmente compartidos entre los miembros de la comunidad o incluso más
 allá --el software y el contenido libres son comunes que *cualquiera*
 puede usar y mejorar, sin exclusiones.  Las licencias libres (como la
-GNU GPL o las Creative Commons) codifican estas reglas comunitarias de
+GNU GPL o las licencias Creative Commons) codifican estas reglas comunitarias de
 forma que se vuelven requisitos legales.
 
 Ya que la cooperación en los proyectos de pares es voluntaria, nadie
@@ -302,29 +302,29 @@ tarea, más visibles serán las pistas que apunten a ella, incrementando
 la posibilidad de que alguien comience a trabajar en ella.  ¿Puede la
 producción de pares lograr lo que el capitalismo no puede: producir
 abundancia en el sentido de "lo que necesites, cuando lo necesites" para
-todos, y no sólo en áreas específicas (por ejemplo, software) y no sólo
+todos? ¿Puede hacerlo no sólo en áreas específicas (por ejemplo, software) y sólo
 para algunos, sino en todas las áreas y para todos?
 
 Para hacerlo posible, la producción de pares necesita crecer más allá
-del mundo inmaterial hacia el material, produciendo no sólo información
+de lo inmaterial hacia el mundo material, produciendo no sólo información
 sino también bienes físicos y servicios.  ¿Pero es esto posible
 siquiera?  "Una abundancia de información sobre cómo podemos hacer
 cosas no es lo mismo que una abundancia de cosas --es una abundancia de
-recetas no una de comida", arguye el economista y activista comunitario
+recetas no de comida", arguye el economista y activista comunitario
 Brian Davey [-@davey-2010], quejándose de la que la producción de pares
 basada en los comunes sólo puede producir información (recetas) pero no
 las cosas físicas (comida).  La noción subyacente, compartida tanto por
-proponentes como críticos de la producción de pares, es que es excelente
+los impulsores como por los críticos de la producción de pares, es que es excelente
 en la esfera de la información, la cual es fácil de copiar y cambiar,
 pero falla en el mundo material, que no lo es.
 
 Pero este argumento ignora el hecho que no es una propiedad inherente
 de la información lo que la hace fácil de copiar, sino una cuestión
 _infraestructural_.  Hace 30 años, sólo las corporaciones con
-maquinaria extremadamente cara y especializada eran capaces de producir
+maquinaria extremadamente cara y especializada eran capaces de reproducir
 música, como indica Glyn Moody [-@moody-2010].  Sólo la difusión
 de las conexiones de banda ancha a Internet y los discos rígidos
-suficientemente grandes la hicieron común.
+suficientemente grandes lo hicieron asequible.
 
 Desarrollos similares en la producción de cosas físicas no sólo son
 posibles --en algunas áreas, ya están en camino.  La reproducción de
@@ -348,7 +348,7 @@ Fundación Wikimedia [-@wikimedia-2011], la organización que soporta la
 Wikipedia y otros wikis relacionados:
 
 > Imagina un mundo donde cualquier ser humano puede compartir libremente
-> la suma del conocimiento.  Ese es nuestro compromiso.
+> la suma de todo el conocimiento.  Ese es nuestro compromiso.
 
 El _diseño abierto_, también llamado _hardware abierto_, es el tipo
 de conocimiento más importante para la producción de cosas físicas.
@@ -372,18 +372,17 @@ ch. 46] llegó a la misma conclusión:
 > sociedad, la propiedad privada del globo por individuos parecerá
 > tan absurda como la propiedad privada de un hombre sobre otro.  Aun
 > una sociedad completa, una nación o incluso todas las sociedades
-> existentes simultáneamente tomadas juntas pueden ser propietarias
+> que existen simultáneamente en su conjunto, no son propietarias
 > del globo.  Sólo son sus poseedores, sus usufructuarios y, como las
-> *boni patres familias*, deben dejarlo a las generaciones siguientes en
-> condición mejorada.
+> *boni patres familias*, deben legarlo a las generaciones futuras en mejores condiciones.
 
 Tratar los recursos naturales como comunes significa que nadie puede
 reclamar derechos exclusivos sobre ellos y deben ser preservados
-sustancialmente; pueden ser usados, pero no abusados.  Mientras nadie
-tenga acceso privilegiado, la suma de los recursos es compartir por
+sustancialmente; pueden ser usados, pero no abusados.  Ya que nadie
+tiene acceso privilegiado, la suma de los recursos debe ser compartida por
 todos.  La huella ecológica provee algunas directrices sobre cuánto
 puede usar cada uno al tiempo que deja suficiente para los demás.  De
-esta forma, es posible tratar con los límites de los recursos terrestres
+esta forma, es posible tratar con la finitud de los recursos terrestres 
 de manera que no se excluya o se ponga en desventaja a nadie.
 
 Preservar y compartir los recursos naturales como comunes es el segundo
@@ -392,7 +391,7 @@ la lógica capitalista de tratar casi todo (incluyendo la mayoría de los
 recursos naturales) como propiedad de alguien a tratar los recursos
 como comunes será un desafío tremendo, ya que interrumpe radicalmente
 el control existente y los derechos exclusivos de los "propietarios"
-actuales de estos recursos.  Ya hemos visto muchas de estas luchas en
+actuales de estos recursos.  Ya hemos visto muchas de estas luchas llevandose a cabo hoy en 
 el ámbito digital (¿debería considerarse la información como propiedad
 privada o como bien común?) y podemos esperar muchas y más fuertes
 luchas sobre los comunes versus la propiedad en el futuro.
@@ -401,7 +400,7 @@ La producción no es posible sin medios de producción, como las máquinas
 usadas en el proceso productivo.  En el campo de la producción digital
 de pares, los medios de producción son poseídos por muchas personas.
 Las personas que escriben software libre o artículos de la Wikipedia lo
-hacen desde sus computadoras.  Esto es muy diferente de la producción
+hacen desde sus propias computadoras.  Esto es muy diferente de la producción
 capitalista, donde los medios de producción son poseídos por una
 compañía que emplea personas y los usa a ambos (personas y máquinas)
 para obtener rédito.
@@ -437,14 +436,14 @@ general, cada nodo utiliza conexiones inalámbricas para comunicarse
 directamente con los nodos en su vecindario; si la computadora objetivo
 está muy alejada, los nodos que se encuentren físicamente entre ellos
 actúan como relés, transmitiendo el mensaje a su destino.  No existen
-servidores centrales que puedan apagarse para dar de baja un servicio
+servidores centrales que puedan apagarse para dar de baja el servicio
 y si desaparecen nodos individuales de la red, los nodos cercanos a
 ellos determinan automáticamente nuevas rutas.  Entonces, no existen
 autoridades centrales que puedan monitorear o censurar la red.
 
 Los habitantes de la ciudad de Scarborough en África del Sur han
 levantado una red en malla que les otorga acceso a Internet y al
-teléfono.  El hardware requerido se encuentra distribuido entre muchas
+teléfono.  El hardware necesario se encuentra distribuido entre muchas
 personas; todos pueden contribuir comprando un router wi-fi, una antena
 u otro equipo y volverlo parte de la malla.  La red corre enteramente
 sobre software libre y partes de su equipamiento están desarrolladas
@@ -477,8 +476,8 @@ plástico, una sobre la otra.
 
 Hasta ahora, mucho del equipamiento requerido es todavía propietario y
 bastante costoso de obtener, por lo que la mayoría de los Labs necesitan
-el esponsoreo de una universidad u otra organización.  Pero esta está
-cambiando gradualmente, desde que la multitud de proyectos de pares
+el esponsoreo de una universidad u otra organización.  Pero esto está
+cambiando gradualmente, desde que una multitud de proyectos de pares
 que desarrolla herramientas de producción como hardware abierto está
 emergiendo en los últimos años.  Existen enrutadoras CNC libres y
 abiertas como la [Kikori](http://sindrianarts.com), cortadoras láser
@@ -492,10 +491,10 @@ producción de pares, serán reproducidas libremente por cualquiera que
 posea el equipamiento adecuado.  Y si los _hubs_ de producción abierta
 --"Fab Labs" más avanzados-- hospedan el equipamiento necesario para
 producir sus herramientas, la cosa se pone excitante, ya que significa
-que la red abierta de facilidades productivas pueden crecer sin requerir
-entrada desde el mercado.  De esta forma, un desacoplamiento parcial de
+que la red abierta de facilidades productivas puede crecer sin requerir
+entrada del mercado.  De esta forma, un desacoplamiento parcial de
 la producción capitalista se vuelve posible.  Las personas cooperando
-como pares ya no tendrán que comprar casi todo (lo que significa que
+como pares ya no se verán obligadas a comprar casi todo (lo que significa que
 tampoco van a tener que vender algo, por ejemplo su fuerza de trabajo,
 para conseguir el dinero necesario).  En su lugar, pueden producir
 conjuntamente lo que necesiten.  Entonces, la fabricación y utilización
@@ -524,7 +523,7 @@ justicia mucha gente se apura a apuntar la presunta necesidad de cuerpos
 regulatorios centralizados.
 
 Un punto crítico es el acceso a los recursos.  La lógica de la
-producción de pares postula que los recursos son tratados como
+producción de pares postula que los recursos deben ser tratados como
 comunes que pueden ser utilizados siempre y cuando sean preservados
 sustancialmente para el futuro y donde todos obtienen una parte justa.
 ¿Pero qué pasa si se trata de violar este principio, utilizando muchos
@@ -539,7 +538,7 @@ con la mala conducta (percibida por la comunidad): los participantes
 reaccionan "_flameando_[^flame] y aislando" [@lehmann-2004].  La
 gente criticará y amonestará públicamente al que se comporte mal
 --al principio amistosamente, pero tornándose cada vez más agresiva,
-asuzando las "llamas" si la crítica es ignorada.  Si estas advertencias
+azuzando las "llamas" si la crítica es ignorada.  Si estas advertencias
 no son efectivas, la gente lo "aislará", ignorándolo completamente y
 rehusándose a cooperar con él.  En casos extremos, la persona aislada es
 oficialmente echada del proyecto.
@@ -550,8 +549,8 @@ otros.  Ver [Flame](http://es.wikipedia.org/wiki/Flame) en Wikipedia.
 
 Pero todos necesitan de los demás, sin tener en cuenta la forma de
 sociedad en la que se viva y en una sociedad basada en la producción
-de pares esta dependencia mutua será más fuerte.  Sin otros, será muy
-difícil sobrevivir y el buen pasar estará fuera de tema.  De ahí que
+de pares esta dependencia mutua será incluso más fuerte.  Sin otros, será muy
+difícil sobrevivir y un buen vivir estará fuera de discusión.  De ahí que
 si existe un amplio consenso social para no aceptar ciertas formas de
 comportamiento, comportarse de esa forma se vuelve casi imposible (y
 ciertamente no valdrá la pena asumir el costo social de hacerlo).
@@ -560,8 +559,8 @@ La distribución de tareas es otra área potencialmente problemática.
 En la producción de pares, el modo usual de distribución de tareas
 es la auto-selección estigmérgica.  Todos eligen por sí mismos cómo
 involucrarse y qué hacer, inspirándose en las pistas que dan los demás
-sobre lo que es necesario.  ¿Pero cómo pueden los pares productores
-asumir tareas que nadie, o no la suficiente gente, está dispuesto a
+sobre lo que se necesita.  ¿Pero cómo pueden los pares productores
+lidiar con tareas en las que esto no funciona --tareas que nadie, o no la suficiente gente, está dispuesto a
 hacer?
 
 La primera pregunta que nos debemos hacer es si esas tareas son
@@ -574,7 +573,7 @@ productivos han sido automatizados parcial o completamente.  Las
 tareas pasibles de automatización son aquellas monótonas y repetitivas
 --por lo tanto las más impopulares.  Las actividades que requieren
 inteligencia, creatividad e intuición son las más difíciles o imposibles
-de automatizar, pero son el problema menor de todas formas ya que
+de automatizar, pero son un problema menor de todas formas ya que
 la naturaleza de estas tareas tiende a hacerlas lo suficientemente
 interesantes y atractivas.
 
@@ -583,7 +582,7 @@ de la automatización --mientras peor pago es un trabajo, más difícil
 es automatizarlo sin incurrir en costos extra (lo que no tendría
 sentido desde un punto de vista capitalista).  Los salarios pagados por
 muchas ocupaciones no placenteras (por ejemplo la limpieza) tienden
-a ser específicamente bajos, por lo tanto no son atractivos para la
+a ser especialmente bajos, volviéndolas poco atractivas para su 
 automatización bajo el capitalismo.  En la sociedad basada en la
 producción de pares, la situación sería diferente.  Si casi todos
 desean que una tarea se realice, pero nadie quiere realmente hacerla,
@@ -594,20 +593,20 @@ decir una actividad mucho más interesante y desafiante) para permitir la
 automatización de la tarea.
 
 Otra opción para tratar con tareas impopulares es reorganizarlas de
-forma tal que las vuelva más placenteras --más entretenidas, más
+forma que se vuelvan más placenteras --más entretenidas, más
 interesantes, más fáciles.  En el capitalismo, las condiciones laborales
 de trabajos mal pagados y no atractivos son usualmente muy malas (por
 ejemplo, los trabajadores de la limpieza en las oficinas empiezan su
 jornada mucho más temprano).  No obstante, tales condiciones no son
 inherentes a esas tareas.  En la producción de pares, los voluntarios
-(potenciales) deciden cómo organizar sus actividades y qué circnstancias
+(potenciales) deciden cómo organizar sus actividades y qué circunstancias
 aceptar.  No tienen por qué aceptar circunstancias dictadas por otro y
-pueden pasar de condiciones sin atractivo.
+pueden evitar condiciones sin atractivo.
 
 Si ningún acercamiento resulta posible, las tareas no placenteras pueden
-compartirse de forma justa.  Si todos (o todos los que les importa) realizan
+compartirse de forma justa.  Si todos (o todos a los que les importa) realizan
 una pequeña parte de tales tareas de vez en cuando, pueden realizarse sin
-causar problemas a nadie.
+causar demasiado problema a nadie.
 
 La producción de pares no es una panacea para resolver todos los
 problemas sociales, pero abre muchas oportunidades para unir fuerzas
@@ -615,12 +614,12 @@ con otros y abordar conjuntamente las cuestiones que uno considera
 importantes.  Bajo el capitalismo, la gente es forzada constantemente
 a trabajar contra los demás, causando montones de trabajo extra y
 sufrimiento innecesario.  La producción de pares puede ser mucho mejor
-porque se hace con fines de beneficio: la gente produce algo, juntos,
+porque se hace impulsada por el beneficio: la gente produce algo, juntos,
 porque encaja en sus necesidades productivas o de consumo.  En el
 capitalismo, el éxito de una persona o empresa se realiza necesariamente
-a expensas de otros, pero lo mismo es falso si aunaran fuerzas para
+a expensas de otros, pero lo mismo es falso si las personas aunaran fuerzas para
 satisfacer sus necesidades.  Las necesidades de una persona no deben
-venir a expensas de otros, ni de la naturaleza.  Al contrario, la
+venir a costa de otros, ni de la naturaleza.  Al contrario, la
 producción de pares funciona tan bien porque la gente se ayuda entre sí
 para alcanzar sus objetivos y satisfacer sus necesidades, lo que es una
 ventaja para todos los involucrados.
