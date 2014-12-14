@@ -9,7 +9,7 @@ Manifiesto por la Guerrilla del Acceso Abierto
 
 La información es poder. Pero como con todo poder, hay quienes lo quieren
 mantener para sí mismos. La herencia científica y cultural del mundo completa,
-publicada durante siglos en libros y _journals_, está siendo digitalizada
+publicada durante siglos en libros y _journals, está siendo digitalizada
 y apresada en forma creciente por un manojo de corporaciones privadas. ¿Querés
 leer los _papers_ que presentan los más famosos resultados de las ciencias? Vas
 a tener que mandarle un montón de plata a editoriales como Reed Elsevier.
