@@ -164,7 +164,7 @@ Pero la abundancia en el segundo sentido es un tema diferente.  Las
 cosas que son descartadas rápidamente no satisfarán más necesidades que
 las que son utilizadas por largo tiempo; y no necesitas cinco autos
 para llegar a tu destino rápida y convenientemente --dependiendo de la
-situación, un auto, una bicicleta (eléctrica) o buen transporte público
+situación, un auto, una bicicleta (eléctrica) o un buen transporte público
 resultará igual o mejor.  Este concepto de abundancia no está enfocado
 en la acumulación de cosas, sino en la satisfacción de necesidades.
 
@@ -199,7 +199,7 @@ viene a expensas de la naturaleza.
 Asimismo, la abundancia para todos es imposible porque las compañías
 producen bienes para venderlos --así es como hacen dinero.  Pero las
 cosas sólo pueden ser vendidas si son escasas, si no existen en cantidad
-suficiente.  De otro modo, si el suministro e más alto que la demanda,
+suficiente.  De otro modo, si el suministro es más alto que la demanda,
 los precios tienden a caer a cero.  Esto le quita al mercado en cuestión
 atracción para los productores ya que se vuelve difícil o imposible
 "hacer dinero".  Algunos productores se irán o irán a la bancarrota,
@@ -315,7 +315,7 @@ Brian Davey [-@davey-2010], quejándose de la que la producción de pares
 basada en los comunes sólo puede producir información (recetas) pero no
 las cosas físicas (comida).  La noción subyacente, compartida tanto por
 proponentes como críticos de la producción de pares, es que es excelente
-en la esfera de la información, la cual es fácil de copiar y cambiar,
+en la esfera de la información, la cual es fácil de copiar y modificar,
 pero falla en el mundo material, que no lo es.
 
 Pero este argumento ignora el hecho que no es una propiedad inherente
@@ -380,7 +380,7 @@ ch. 46] llegó a la misma conclusión:
 Tratar los recursos naturales como comunes significa que nadie puede
 reclamar derechos exclusivos sobre ellos y deben ser preservados
 sustancialmente; pueden ser usados, pero no abusados.  Mientras nadie
-tenga acceso privilegiado, la suma de los recursos es compartir por
+tenga acceso privilegiado, la suma de los recursos es compartida por
 todos.  La huella ecológica provee algunas directrices sobre cuánto
 puede usar cada uno al tiempo que deja suficiente para los demás.  De
 esta forma, es posible tratar con los límites de los recursos terrestres
@@ -492,7 +492,7 @@ producción de pares, serán reproducidas libremente por cualquiera que
 posea el equipamiento adecuado.  Y si los _hubs_ de producción abierta
 --"Fab Labs" más avanzados-- hospedan el equipamiento necesario para
 producir sus herramientas, la cosa se pone excitante, ya que significa
-que la red abierta de facilidades productivas pueden crecer sin requerir
+que la red abierta de facilidades productivas puede crecer sin requerir
 entrada desde el mercado.  De esta forma, un desacoplamiento parcial de
 la producción capitalista se vuelve posible.  Las personas cooperando
 como pares ya no tendrán que comprar casi todo (lo que significa que
@@ -600,12 +600,12 @@ de trabajos mal pagados y no atractivos son usualmente muy malas (por
 ejemplo, los trabajadores de la limpieza en las oficinas empiezan su
 jornada mucho más temprano).  No obstante, tales condiciones no son
 inherentes a esas tareas.  En la producción de pares, los voluntarios
-(potenciales) deciden cómo organizar sus actividades y qué circnstancias
+(potenciales) deciden cómo organizar sus actividades y qué circunstancias
 aceptar.  No tienen por qué aceptar circunstancias dictadas por otro y
 pueden pasar de condiciones sin atractivo.
 
 Si ningún acercamiento resulta posible, las tareas no placenteras pueden
-compartirse de forma justa.  Si todos (o todos los que les importa) realizan
+compartirse de forma justa.  Si todos (o todos a los que les importa) realizan
 una pequeña parte de tales tareas de vez en cuando, pueden realizarse sin
 causar problemas a nadie.
 
